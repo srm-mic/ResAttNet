@@ -1,6 +1,8 @@
 <h1 align="center"> ResCon - Team Lynx </h1>
 <h3 align="center"> Residual Attention Network for Image Classification <h3>
 
+[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+
 ![RESCON](https://user-images.githubusercontent.com/70643852/105801454-27705e80-5fbf-11eb-97c7-9cc78d4b2636.png)
 <h4 align="center"> Interactions between the Feature and Attention Masks of the Residual Attetntion Network [Image Referenced from the Paper] <h4>
 
